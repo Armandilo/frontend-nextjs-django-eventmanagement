@@ -1,4 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Frontend for Event Management System (Next.js) :wave:
+
+This repository contains the frontend for the **Event Management System**, developed using **Next.js**. The system integrates with a Django backend to offer features such as event creation, registration, user management, and more.
+
+<details>
+  <summary>Click to view screenshots 💻</summary>
+
+  <img src="https://i.imghippo.com/files/4V4PD1725975111.png" alt="Event Creation Page" width="400" height="200"/>
+  <img src="https://i.imghippo.com/files/1EzMC1725974838.png" alt="Event Creation Page" width="400" height="200"/>
+  <img src="https://i.imghippo.com/files/SORxH1725975151.png" alt="Event Creation Page" width="400" height="200"/>
+  <img src="https://i.imghippo.com/files/9iGEf1725975233.png" alt="Event Creation Page" width="400" height="200"/>
+
+</details>
+
+## Features :sparkles:
+- Seamless integration with Django backend
+- Responsive UI using Tailwind CSS
+- User authentication and registration
+- Event creation, editing, and viewing
+- Real-time updates and notifications
+
+## Prerequisites :sparkles:
+Before setting up the project, ensure you have the following installed on your machine:
+- **Node.js 16.x+**
+- **npm** or **Yarn** for package management
+
+## Setup Instructions :point_down:
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Armandilo/frontend-nextjs-django-eventmanagement.git
+```
 
 ## Getting Started
 
